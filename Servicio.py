@@ -17,5 +17,3 @@ class Servicio():
     
     def borrar(self):
         pass
-
-    print("Hola")
